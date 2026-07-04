@@ -6,7 +6,7 @@
 
 [![Donate](https://img.shields.io/badge/DONATE-Support_The_Mission-ff3333?style=for-the-badge&logo=heart&logoColor=white)](https://www.thcoalition.net/donate)
 [![Get Tools](https://img.shields.io/badge/GET_TOOLS-Plans_%26_Pricing-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://www.thcoalition.net/pricing-plans/list)
-[![Discord](https://img.shields.io/badge/JOIN_US-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/liberationlabs)
+[![Discord](https://img.shields.io/badge/JOIN_US-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vKm7GwXHv)
 [![Website](https://img.shields.io/badge/WEB-thcoalition.net-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://www.thcoalition.net)
 
 ---
@@ -97,7 +97,7 @@ We run **free, live, hands-on workshops** for progressive organizers — no tech
 
 Every month on our Discord. Come learn. Come build. Come organize.
 
-**[→ See upcoming events](https://www.thcoalition.net/event-list)** · **[→ Join the Discord](https://discord.gg/liberationlabs)**
+**[→ See upcoming events](https://www.thcoalition.net/event-list)** · **[→ Join the Discord](https://discord.gg/vKm7GwXHv)**
 
 ---
 
