@@ -4,14 +4,14 @@
 
 ### **AI is the new means of production. We're seizing it for the people.**
 
-[![Donate](https://img.shields.io/badge/DONATE-Support_The_Mission-ff3333?style=for-the-badge&logo=heart&logoColor=white)](https://www.thcoalition.net/donate)
-[![Get Tools](https://img.shields.io/badge/GET_TOOLS-Plans_%26_Pricing-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://www.thcoalition.net/pricing-plans/list)
+[![Donate](https://img.shields.io/badge/DONATE-Support_The_Mission-ff3333?style=for-the-badge&logo=heart&logoColor=white)](https://thcoalition.org/donate)
+[![Get Tools](https://img.shields.io/badge/GET_TOOLS-Plans_%26_Pricing-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://thcoalition.org/pricing-plans/list)
 [![Discord](https://img.shields.io/badge/JOIN_US-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vKm7GwXHv)
-[![Website](https://img.shields.io/badge/WEB-thcoalition.net-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://www.thcoalition.net)
+[![Website](https://img.shields.io/badge/WEB-thcoalition.org-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://thcoalition.org)
 
 ---
 
-**A project of [Transparent Humboldt Coalition](https://www.thcoalition.net)**
+**A project of [Transparent Humboldt Coalition](https://thcoalition.org)**
 
 *Free and open-source agentic AI tools for organizers, journalists, and communities fighting for justice.*
 
@@ -65,19 +65,19 @@ We keep our tools free because the people who need them most can't afford paywal
 
 Every dollar goes directly to tool development, server costs, and community workshops.
 
-**[→ Make a donation at thcoalition.net/donate](https://www.thcoalition.net/donate)**
+**[→ Make a donation at thcoalition.org/donate](https://thcoalition.org/donate)**
 
 ### 🟣 Get Premium Tools & Support
 
 Need deeper access? Priority support? Custom deployments for your org?
 
-**[→ See Plans & Pricing](https://www.thcoalition.net/pricing-plans/list)**
+**[→ See Plans & Pricing](https://thcoalition.org/pricing-plans/list)**
 
 ### Other Ways to Support
 - **⭐ Star our repos** — visibility matters
 - **🍴 Fork and contribute** — code is solidarity
 - **📢 Share our work** — tell your organizer friends
-- **🎓 Attend a workshop** — [upcoming events](https://www.thcoalition.net/event-list)
+- **🎓 Attend a workshop** — [upcoming events](https://thcoalition.org/event-list)
 
 ---
 
@@ -97,7 +97,7 @@ We run **free, live, hands-on workshops** for progressive organizers — no tech
 
 Every month on our Discord. Come learn. Come build. Come organize.
 
-**[→ See upcoming events](https://www.thcoalition.net/event-list)** · **[→ Join the Discord](https://discord.gg/vKm7GwXHv)**
+**[→ See upcoming events](https://thcoalition.org/event-list)** · **[→ Join the Discord](https://discord.gg/vKm7GwXHv)**
 
 ---
 
@@ -107,7 +107,7 @@ Every month on our Discord. Come learn. Come build. Come organize.
 
 **2. Community over corporation.** We build for organizers, not investors.
 
-**3. Ethics aren't optional.** Every tool ships with our [AI Ethics Scorecard](https://www.thcoalition.net/ai-ethics-scorecard).
+**3. Ethics aren't optional.** Every tool ships with our [AI Ethics Scorecard](https://thcoalition.org/ai-ethics-scorecard).
 
 **4. Meet people where they are.** You don't need to be a developer to use AI for justice.
 
@@ -119,12 +119,12 @@ Every month on our Discord. Come learn. Come build. Come organize.
 
 **Don't let them get away with anything.**
 
-[![Donate Now](https://img.shields.io/badge/🔥_DONATE_NOW-ff3333?style=for-the-badge)](https://www.thcoalition.net/donate)
-[![Get Started](https://img.shields.io/badge/🚀_GET_TOOLS-7c3aed?style=for-the-badge)](https://www.thcoalition.net/pricing-plans/list)
-[![Free Prompts](https://img.shields.io/badge/📋_FREE_PROMPT_LIBRARY-22c55e?style=for-the-badge)](https://www.thcoalition.net/liberation-labs-tools/communicate-with-decision-makers)
+[![Donate Now](https://img.shields.io/badge/🔥_DONATE_NOW-ff3333?style=for-the-badge)](https://thcoalition.org/donate)
+[![Get Started](https://img.shields.io/badge/🚀_GET_TOOLS-7c3aed?style=for-the-badge)](https://thcoalition.org/pricing-plans/list)
+[![Free Prompts](https://img.shields.io/badge/📋_FREE_PROMPT_LIBRARY-22c55e?style=for-the-badge)](https://thcoalition.org/liberation-labs-tools/communicate-with-decision-makers)
 
 ---
 
-*Liberation Labs is a project of [Transparent Humboldt Coalition](https://www.thcoalition.net) · Transparency, Integrity, and Accountability Through Community Engagement*
+*Liberation Labs is a project of [Transparent Humboldt Coalition](https://thcoalition.org) · Transparency, Integrity, and Accountability Through Community Engagement*
 
 </div>
